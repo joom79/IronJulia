@@ -1,3 +1,6 @@
 Clara's paragraph (updated):
 My contribution to this project was helping Julia figure out 
 how to create a .txt file via the terminal.
+
+Julia's paragraph:
+My contribution to this project was learning from Clara on how to use Git/Github and Terminal.
