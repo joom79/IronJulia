@@ -1,0 +1,3 @@
+Clara's paragraph:
+My contribution to this project was helping Julia figure out 
+how to create a .txt file via the terminal.
